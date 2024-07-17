@@ -1,11 +1,11 @@
 {
     "hero": {
         "backgroundClass": "bg-white dark:bg-gray-dark",
-        "title": "Herzlich Willkommen in der Hausarztpraxis Buchs (Kappelihof)",
+        "title": "Herzlich Willkommen in der Hausarztpraxis am Bahnhof Oerlikon",
         "description": "Das Wohl unserer Patienten steht im Mittelpunkt unserer ärztlichen Bemühungen. Mit der Zielsetzung, die medizinische Versorgung auf höchstem Niveau zu halten, bieten wir moderne Geräte, eine entsprechende Infrastruktur, patientenfreundliche Sprechzeiten und ein gut ausgebildetes Praxisteam.",
         "callToAction": {
             "label": "Anrufen",
-            "link": "tel:+41817562121",
+            "link": "tel:+41443130001",
             "class": "rounded-sm bg-blue-500 px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-blue-700"
         },
         "svgGradientStops": [
