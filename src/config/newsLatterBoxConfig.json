@@ -3,37 +3,30 @@
     "address": {
         "title": "Adresse",
         "content": [
-            "Hausarztpraxis Buchs AG (Praxis Kappelihof)",
-            "Grünaustrasse 1",
-            "9470 Buchs SG",
-            "E-Mail: praxisbuchs@hin.ch",
-            "Telefon: +41 81 756 21 21",
-            "CHE-459.995.311"
+            "Hausarztpraxis am Bahnhof Oerlikon",
+            "Nansenstrasse 16",
+            "8050 Zürich ZH",
+            "E-Mail: georg.fischer@hin.ch",
+            "Telefon: +41 44 313 00 01",
+            "CHE-139.139.483"
         ]
     },
     "openingHours": {
         "title": "Öffnungszeiten",
         "hours": [
             [
-                "Montag - Mittwoch:",
-                "08:00 - 12:00 Uhr und 14:00 - 18:00 Uhr"
-            ],
-            [
-                "Donnerstag:",
-                "08:00 - 16:00 Uhr (Sprechstunde bis 12:00 Uhr)"
-            ],
-            [
-                "Freitag:",
-                "08:00 - 12:00 Uhr und 13:00 - 17:00 Uhr"
+                "Montag - Freitag:",
+                "07:30 - 19:30 Uhr"
             ],
             [
                 "Samstag:",
-                "geschlossen"
+                "09:00 - 15:00 Uhr"
             ],
             [
                 "Sonntag:",
-                "geschlossen"
+                "10:00 - 14:00 Uhr"
             ]
+           
         ],
         "note": "Wir bitten um telefonische Kontaktaufnahme."
     },
